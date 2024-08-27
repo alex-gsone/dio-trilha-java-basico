@@ -10,13 +10,12 @@ package contabanco;
  * @author alex
  */
 public class ContaBanco {
+    
+    int contaNumero;
+    String agencia;
+    String nomeCliente;
+    double saldo;
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("OI");
-    }
+   
     
 }
